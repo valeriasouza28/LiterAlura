@@ -1,4 +1,4 @@
-LiterAlura
+# LiterAlura
 
 LiterAlura é uma aplicação Java para busca e gerenciamento de livros utilizando a API Gutendex.
 Funcionalidades
@@ -8,7 +8,7 @@ Funcionalidades
     Busca por Linguagem: Explore livros disponíveis em diferentes idiomas.
     Lista de Leitura: Adicione livros à sua lista de leitura com status de leitura.
 
-Como Usar
+## Como Usar
 
     Pré-requisitos:
         Java 11 ou superior
@@ -24,7 +24,7 @@ Como Usar
     Opções Disponíveis:
         Siga as instruções no console para usar as opções de busca e gerenciamento da lista de leitura.
 
-Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
     Java
     SQL Server
